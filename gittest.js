@@ -8,3 +8,6 @@ console.log('bicycle');
 console.log('bicycle');
 console.log('bicycle');
 console.log('bicycle');
+console.log('bicycle');
+console.log('bicycle');
+console.log('bicycle');
